@@ -1,5 +1,5 @@
 
-# [jQuery Expressions Library]
+# jQuery Expressions Library
 
 ## Description
 LINQ Style jQuery DOM and Collection Methods 
